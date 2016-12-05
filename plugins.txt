@@ -1,0 +1,17 @@
+amazon-ecr
+ansicolor
+aws-credentials
+chef-identity
+git
+gitlab-hook
+gitlab-plugin
+ownership
+p4
+publish-over-ssh
+repo
+simple-theme-plugin
+slack
+slave-setup
+ssh-agent
+timestamper
+windows-slaves
