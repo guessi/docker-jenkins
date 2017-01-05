@@ -1,3 +1,4 @@
+active-directory
 amazon-ecr
 ansicolor
 aws-credentials
@@ -9,9 +10,12 @@ ownership
 p4
 publish-over-ssh
 repo
+scm-sync-configuration
+script-security 
 simple-theme-plugin
 slack
 slave-setup
 ssh-agent
 timestamper
 windows-slaves
+ws-cleanup
