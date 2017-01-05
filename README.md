@@ -1,17 +1,17 @@
 docker-jenkins
 --------------
 
-my personal Jenkins with most popular plugins
+Jenkins with most popular plugins
 
 
 # Build
 
-    $ docker build -t myjenkins .
+    $ docker build -t docker-jenkins .
 
 
 # Run
 
-    $ docker run -d -p 8080:8080 -p 50000:50000 myjenkins
+    $ docker run -d -p 8080:8080 -p 50000:50000 docker-jenkins
 
 
 # Start
