@@ -6,12 +6,14 @@ chef-identity
 git
 gitlab-hook
 gitlab-plugin
+jobConfigHistory
+ldap
 ownership
 p4
 publish-over-ssh
 repo
 scm-sync-configuration
-script-security 
+script-security
 simple-theme-plugin
 slack
 slave-setup
