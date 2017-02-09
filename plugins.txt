@@ -2,13 +2,13 @@ active-directory
 amazon-ecr
 ansicolor
 aws-credentials
+build-name-setter
 chef-identity
 git
-gitlab-hook
-gitlab-plugin
+git-parameter
 jobConfigHistory
 ldap
-ownership
+mask-passwords
 p4
 publish-over-ssh
 repo
@@ -19,5 +19,6 @@ slack
 slave-setup
 ssh-agent
 timestamper
+warnings
 windows-slaves
 ws-cleanup
