@@ -7,7 +7,7 @@
 
 ## Integrated Items
 
-* Jenkins LTS 2.32.2
+* Jenkins LTS 2.32.3
 * Jenkins Plugins: see plugins.txt
 
 
