@@ -8,6 +8,7 @@ chef-identity
 configurationslicing
 dependency-check-jenkins-plugin
 disk-usage
+envinject
 git
 git-parameter
 jacoco
@@ -15,6 +16,7 @@ jobConfigHistory
 ldap
 mask-passwords
 maven-plugin
+msbuild
 p4
 publish-over-ftp
 publish-over-ssh
