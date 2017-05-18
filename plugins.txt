@@ -18,6 +18,7 @@ mask-passwords
 maven-plugin
 msbuild
 p4
+pipeline-maven
 publish-over-ftp
 publish-over-ssh
 repo
