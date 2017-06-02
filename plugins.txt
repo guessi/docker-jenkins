@@ -1,5 +1,6 @@
 active-directory
 amazon-ecr
+ansible
 ansicolor
 aws-credentials
 build-name-setter
@@ -8,6 +9,7 @@ chef-identity
 configurationslicing
 dependency-check-jenkins-plugin
 disk-usage
+docker-workflow
 envinject
 git
 git-parameter
@@ -18,7 +20,11 @@ mask-passwords
 maven-plugin
 msbuild
 p4
+pipeline-aws
+pipeline-build-step
 pipeline-maven
+pipeline-stage-view
+powershell
 publish-over-ftp
 publish-over-ssh
 repo
@@ -32,5 +38,6 @@ timestamper
 validating-string-parameter
 warnings
 windows-slaves
+workflow-aggregator
 ws-cleanup
 zap
