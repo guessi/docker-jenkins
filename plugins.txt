@@ -4,6 +4,7 @@ ansible
 ansicolor
 aws-credentials
 build-name-setter
+build-pipeline-plugin
 buildtriggerbadge
 chef-identity
 configurationslicing
@@ -11,8 +12,11 @@ dependency-check-jenkins-plugin
 disk-usage
 docker-workflow
 envinject
+flexible-publish
 git
 git-parameter
+gitlab-plugin
+http_request
 jacoco
 jobConfigHistory
 ldap
@@ -20,6 +24,7 @@ mask-passwords
 maven-plugin
 msbuild
 p4
+parameterized-trigger
 pipeline-aws
 pipeline-build-step
 pipeline-maven
@@ -28,6 +33,7 @@ powershell
 publish-over-ftp
 publish-over-ssh
 repo
+robot
 scm-sync-configuration
 script-security
 simple-theme-plugin
