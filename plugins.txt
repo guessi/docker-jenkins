@@ -26,6 +26,8 @@ msbuild
 next-build-number
 p4
 parameterized-trigger
+perforce
+performance
 pipeline-aws
 pipeline-build-step
 pipeline-maven
