@@ -1,5 +1,6 @@
 active-directory
 amazon-ecr
+analysis-core
 ansible
 ansicolor
 aws-credentials
@@ -7,6 +8,7 @@ build-name-setter
 build-pipeline-plugin
 buildtriggerbadge
 chef-identity
+config-file-provider
 configurationslicing
 dependency-check-jenkins-plugin
 disk-usage
@@ -19,6 +21,7 @@ gitlab-plugin
 http_request
 jacoco
 jobConfigHistory
+jquery
 ldap
 mask-passwords
 maven-plugin
@@ -38,6 +41,7 @@ publish-over-ftp
 publish-over-ssh
 repo
 robot
+run-condition
 scm-sync-configuration
 script-security
 simple-theme-plugin
