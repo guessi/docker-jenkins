@@ -27,7 +27,6 @@ mask-passwords
 maven-plugin
 msbuild
 next-build-number
-p4
 parameterized-trigger
 perforce
 performance
