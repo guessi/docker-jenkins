@@ -35,6 +35,7 @@ pipeline-aws
 pipeline-build-step
 pipeline-maven
 pipeline-stage-view
+pipeline-utility-steps
 powershell
 publish-over-cifs
 publish-over-ftp
