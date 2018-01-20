@@ -23,6 +23,7 @@ jacoco
 jobConfigHistory
 jquery
 ldap
+locale
 mask-passwords
 maven-plugin
 msbuild
@@ -49,6 +50,7 @@ script-security
 simple-theme-plugin
 slack
 slave-setup
+ssh
 ssh-agent
 timestamper
 validating-string-parameter
