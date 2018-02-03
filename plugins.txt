@@ -13,6 +13,7 @@ configurationslicing
 dependency-check-jenkins-plugin
 disk-usage
 docker-workflow
+ec2
 envinject
 flexible-publish
 git
