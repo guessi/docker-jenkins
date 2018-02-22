@@ -6,6 +6,8 @@ ansicolor
 aws-credentials
 build-name-setter
 build-pipeline-plugin
+build-timestamp
+build-user-vars-plugin
 buildtriggerbadge
 chef-identity
 config-file-provider
