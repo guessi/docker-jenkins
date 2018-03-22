@@ -8,7 +8,7 @@ build-name-setter
 build-pipeline-plugin
 build-timestamp
 build-user-vars-plugin
-build-with-parameters-plugin
+build-with-parameters
 buildtriggerbadge
 chef-identity
 config-file-provider
