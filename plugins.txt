@@ -34,7 +34,6 @@ msbuild
 next-build-number
 p4
 parameterized-trigger
-perforce
 performance
 perfpublisher
 pipeline-aws
