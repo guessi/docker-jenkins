@@ -15,16 +15,18 @@
 
 To run a nagios service with default config, use the command below:
 
-    $ docker run -d -p 8080:8080 guessi/docker-jenkins:2.138.1
-
-If you attach slaves via JNLP (Java Web Start), please use the command below:
-
-    $ docker run -d -p 8080:8080 -p 50000:50000 guessi/docker-jenkins:2.138.1
+    $ docker run -d -p 8080:8080 --name jenkins guessi/docker-jenkins:2.138.1
 
 
 ## Dashboard
 
-    Login: http://127.0.0.1:8080
+Find the initial password via:
+
+    $ docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword
+
+Login with initial password, and change password immediately:
+
+    http://127.0.0.1:8080
 
 
 # Configure
