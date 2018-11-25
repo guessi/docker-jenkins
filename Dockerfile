@@ -1,3 +1,3 @@
-FROM jenkins/jenkins:2.138.2
+FROM jenkins/jenkins:2.138.3
 ADD plugins.txt /
 RUN cat /plugins.txt | xargs /usr/local/bin/install-plugins.sh
