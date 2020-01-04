@@ -7,7 +7,7 @@
 
 ## Integrated Items
 
-* Jenkins LTS 2.190.2
+* Jenkins LTS 2.190.3
 * Jenkins Plugins: see plugins.txt
 
 
@@ -15,7 +15,7 @@
 
 To run a nagios service with default config, use the command below:
 
-    $ docker run -d -p 8080:8080 --name jenkins guessi/docker-jenkins:2.190.2
+    $ docker run -d -p 8080:8080 --name jenkins guessi/docker-jenkins:2.190.3
 
 
 ## Dashboard
