@@ -43,7 +43,6 @@ pipeline-utility-steps
 powershell
 publish-over-cifs
 publish-over-ftp
-publish-over-ssh
 repo
 robot
 run-condition
